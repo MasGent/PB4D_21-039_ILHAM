@@ -1,0 +1,1 @@
+Program yang menunjukan cara kerja fragment,terdapat 2 fragment yaitu home dan profil. Jika pada home ditekan send maka akan menuju fragment profildengan mengirimkan biodata singkat
