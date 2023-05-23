@@ -1,0 +1,1 @@
+Program ini berfungsi untuk menampilkan cara kerja dari navigation pada android kotlin. Terdapat 2 bottom navigation yang jika ditekan akan mengarah ke halaman yang telah ditentukan, tombol home akan mengarahkan ke halaman home, tombol gerigi/setting akan mengarahkan ke halaman lain.
